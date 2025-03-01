@@ -30,6 +30,7 @@ export default function ActionBar() {
 				<ActionLine />
 
 				<ActionButton id="traceback" icon="rbxassetid://9887697255" caption="Traceback" />
+				<ActionButton id="clearRemotes" icon="rbxassetid://9887696922" caption="Clear Remotes" />
 				<ActionButton id="copyPath" icon="rbxassetid://9887697099" caption="Copy as path" />
 
 				<uilistlayout
